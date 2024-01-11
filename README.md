@@ -1,4 +1,4 @@
-# Unveiling-the-Stars - Exploratory Study on NASA Astronauts using Python and MySQL
+# Unveiling the Stars - Exploratory Study on NASA Astronauts using Python and MySQL
 
 
 "Unveiling the Stars: An Exploratory Study on NASA Astronauts" is a captivating project in which I will delve into the rich and diverse world of NASA astronauts. As I embark on this endeavor, I will leverage the power of Python and MySQL to meticulously clean, explore, and extract valuable insights from a comprehensive dataset containing a wealth of information about these remarkable space explorers.
